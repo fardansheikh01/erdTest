@@ -1,6 +1,3 @@
-# schema for client onboarding system DATABASE
-
-
 CREATE TABLE customers(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     name varchar,
